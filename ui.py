@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-LOGIN_CREDENTIALS = {"username": "admin", "password": "password123"}
+LOGIN_CREDENTIALS = {"username": "Surge410", "password": "Elitify"}
 
 
 def show_main_ui(start_generation_callback):
